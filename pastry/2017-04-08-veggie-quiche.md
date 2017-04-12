@@ -5,4 +5,4 @@ Night before we cooked down the spring onion (from Eatwell) and the spinach and 
 The next day we stirred the vegetables into the egg and milk mixture and poured it into two pie crusts that Kelliott had picked up from Safeway. I originally thought that two quiches would be one quiche too many, but it turned out to work out great. 
 
 
-- Maggie
+-Maggie
