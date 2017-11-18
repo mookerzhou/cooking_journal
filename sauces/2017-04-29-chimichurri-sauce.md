@@ -1,4 +1,10 @@
-#### Chimichurri Sauce
+---
+layout: post
+title: Chimichurri Sauce
+tags: sauces
+---
+
+### Chimichurri Sauce
 
 This sauce really brings the Beef out of beef, particularly a skillet ribeye.
 

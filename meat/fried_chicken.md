@@ -1,3 +1,9 @@
+---
+layout: post
+title: Fried Chicken
+tags: meat
+---
+
 A fried chicken recipe. 
 
 Consume a large bottle of pickles, the kind with a lot of brine. One 28 oz. jar of store bought pickles produces enough brine to brine ~6 chicken thighs, or maybe one whole chicken if you're lucky. You can always supplement with water & salt.

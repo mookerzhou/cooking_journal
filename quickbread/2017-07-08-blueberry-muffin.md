@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blueberry Muffins
+tags: quickbread
+---
+
 ## Blueberry Muffins
 
 Based on Cooks Illustrated recipe.
