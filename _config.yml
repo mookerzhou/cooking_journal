@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
+timezone: UTC−07:00
+future: false
+paginate: 10
 plugins:
   - jekyll-feed
+  - jekyll-paginate
