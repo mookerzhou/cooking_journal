@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Goddess Dressing
-tags: sauces
+category: sauces
 ---
 
 

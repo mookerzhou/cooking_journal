@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black Garlic Vinagrette
-tags: sauces
+category: sauces
 ---
 
 ### Black Garlic Vinagrette

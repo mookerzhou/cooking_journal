@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chimichurri Sauce
-tags: sauces
+category: sauces
 ---
 
 ### Chimichurri Sauce

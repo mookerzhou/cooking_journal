@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blueberry Muffins
-tags: quickbread
+category: quickbread
 ---
 
 ## Blueberry Muffins
