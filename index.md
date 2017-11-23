@@ -3,22 +3,16 @@ layout: default
 title: House Recipes
 ---
 
-# Recipes
+### Cheeses
 
-## Cheeses
+### Meat
 
-## Meat
+### Pastry
 
-## Pastry
+### Quickbread
 
-## Quickbread
+### Salads
 
-## Salads
+### Sauces
 
-## Sauces
-
-<ul class="posts">
-    {% for post in site.categories.sauces %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{% include list.html category="sauces" %}
