@@ -19,8 +19,6 @@ title: House Recipes
 
 <ul class="posts">
     {% for post in site.posts %}
-      {% if post.tags[0] == "sauces" %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
- </ul>
+</ul>
