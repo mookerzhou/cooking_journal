@@ -1,5 +1,9 @@
-theme: jekyll-theme-minimal
 markdown: kramdown
+theme: jekyll-theme-minimal
+title: 'Cooking Journal'
+url: 'https://mookerzhou.github.io/cooking_journal'
+author:
+  name:  '\0/ Buro and Maggie <3'
 timezone: UTC−07:00
 future: false
 paginate: 10
