@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fried Chicken
-category: meats
+category: meat
 ---
 
 A fried chicken recipe.
