@@ -4,6 +4,5 @@ title: 'Cooking Journal'
 author:
   name:  '\0/ Buro and Maggie <3'
 timezone: UTC−07:00
-baseurl: /cooking_journal
 plugins:
   - jekyll-feed
