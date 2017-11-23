@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Veggie Quiche
-tags: pastry
+category: pastry
 ---
 
 Made a veggie quiche to setup Tom and Katherine over breakfast.
