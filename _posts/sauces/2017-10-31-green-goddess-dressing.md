@@ -4,9 +4,6 @@ title: Green Goddess Dressing
 category: sauces
 ---
 
-
-#### Green Goddess Dressing
-
 Based on the
 [Serious Eats recipe](http://www.seriouseats.com/recipes/2012/06/classic-green-goddess-dressing-recipe.html).
 

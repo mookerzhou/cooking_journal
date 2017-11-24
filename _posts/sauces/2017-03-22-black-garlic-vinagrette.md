@@ -4,8 +4,6 @@ title: Black Garlic Vinagrette
 category: sauces
 ---
 
-### Black Garlic Vinagrette
-
 * 1 clove black garlic
 * 3-4 cloves regular garlic, chopped
 * two lemons juiced

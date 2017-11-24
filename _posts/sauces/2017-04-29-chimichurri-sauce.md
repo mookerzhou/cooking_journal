@@ -4,8 +4,6 @@ title: Chimichurri Sauce
 category: sauces
 ---
 
-### Chimichurri Sauce
-
 This sauce really brings the Beef out of beef, particularly a skillet ribeye.
 
 Add to a mason jar, food processed until fine:

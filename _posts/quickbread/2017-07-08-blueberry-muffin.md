@@ -4,8 +4,6 @@ title: Blueberry Muffins
 category: quickbread
 ---
 
-## Blueberry Muffins
-
 Based on Cooks Illustrated recipe.
 
 - Topping
@@ -24,17 +22,17 @@ Based on Cooks Illustrated recipe.
   * 1 cup - buttermilk
   * 1 1/2 tsp - vanilla extract
 
-## Lemon Zest
+### Lemon Zest
 
 - Mix together the sugar and lemon zest in a small bowl.
 
-## Blueberry Jam
+### Blueberry Jam
 
 - Heat 1 cup blueberries with 1 tsp sugar in saucepan. Simmer, cook, mash
   berries, until they have popped and the mixture has thickened (approximately 6
   minutes). Transfer and cool.
 
-## Muffin Batter
+### Muffin Batter
 
 - Preheat oven to 425F and canola oil pan.
 - Whisk flour, baking powder, and salt
