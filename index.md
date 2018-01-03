@@ -26,3 +26,7 @@ title: House Recipes
 ### Sauces and Spreads
 
 {% include list.html category="sauces" %}
+
+### Sides, Snacks, Misc.
+
+{% include list.html category="sides" %}
