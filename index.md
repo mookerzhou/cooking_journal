@@ -23,6 +23,6 @@ title: House Recipes
 
 {% include list.html category="salads" %}
 
-### Sauces
+### Sauces and Spreads
 
 {% include list.html category="sauces" %}
