@@ -14,4 +14,8 @@ From David Chang and Peter Meehan in the Momofuku Cookbook.
 * 1 garlic clove, minced
 * 1 to 3 red bird’s-eye chiles, sliced
 
+Some reminders:
+- **Don't forget** to wear gloves while handling the bird chilis!
+- In a pinch, apple cider vinegar can be used instead.
+
 -Buro
