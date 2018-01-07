@@ -11,6 +11,10 @@ title: House Recipes
 
 {% include list.html category="meat" %}
 
+### Necessities
+
+{% include list.html category="necessities" %}
+
 ### Pastry
 
 {% include list.html category="pastry" %}
