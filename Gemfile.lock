@@ -216,6 +216,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jekyll-mentions
   jekyll-paginate
 
 BUNDLED WITH
