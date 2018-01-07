@@ -7,3 +7,4 @@ timezone: UTC−07:00
 baseurl: /cooking_journal
 plugins:
   - jekyll-feed
+  - jekyll-mentions
