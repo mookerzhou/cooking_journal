@@ -11,6 +11,10 @@ title: House Recipes
 
 {% include list.html category="meat" %}
 
+### Necessities
+
+{% include list.html category="necessities" %}
+
 ### Pastry
 
 {% include list.html category="pastry" %}
@@ -26,7 +30,3 @@ title: House Recipes
 ### Sauces and Spreads
 
 {% include list.html category="sauces" %}
-
-### Sides, Snacks, Misc.
-
-{% include list.html category="sides" %}
