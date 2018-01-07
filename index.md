@@ -26,3 +26,7 @@ title: House Recipes
 ### Sauces and Spreads
 
 {% include list.html category="sauces" %}
+
+### Slow Bread
+
+{% include list.html category="slowbread" %}
