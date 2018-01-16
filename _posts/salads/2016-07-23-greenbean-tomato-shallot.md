@@ -8,7 +8,7 @@ When I lived in San Francisco the first time (2012-2013), I found a copy of Chez
 - 1 pound cherry tomatoes (or more, 'cause you're going to eat a whole pint on the way home from the market)
 - at least 4 shallots 
 
-A day ahead (optionally), make some _shallot oil_ with the shallots. Slice shallots evenly and thinly (don't dice), and heat up some neutral high heat point oil (I like canola, but grapeseed is good too), and fry until the shallots crisp up and resemble what you'd put on top of green bean casserole. Carefully and quickly once you reach the brown point, remove the shallots to a paper towel'd plate and salt generously. Let cool so that they get crisp and delicious. 
+A day ahead (optionally), make some _shallot oil_ with the shallots. Slice shallots evenly and thinly (don't dice), and heat up a cup of neutral high heat point oil (I like canola, but grapeseed is good too), and fry until the shallots crisp up and resemble what you'd put on top of green bean casserole. Carefully and quickly once you reach the brown point, remove the shallots to a paper towel'd plate and salt generously. Let cool so that they get crisp and delicious. 
 
 Strain resulting oil to remove any remaining debris. If you're using all of the oil the next day this step is less necessary, as you'll use the oil before the debris turns the oil rancid. I like straining through a wire mesh tea filter, but cheesecloth / coffee filters work too. 
 
@@ -16,4 +16,4 @@ Now for the salad!
 
 Blanch your green beans in water that tastes like the sea. This step takes maybe a minute or two, but I usually remove the green beans to some ice water once they've all turned a uniform bright green color. 
 
-Slice cherry tomatoes in half to expose their juicy innards. Place cut tomatoes on top of blanched green beans. Dress with shallot oil, smoe sherry vinegar and some additional salt. Serve cold. 
+Slice cherry tomatoes in half to expose their juicy innards. Place cut tomatoes on top of blanched green beans. Dress with 1/3 cup -> 1/2 cup shallot oil, a few tablespoons of sherry vinegar and some additional salt. Mix well so that the cut tomatoes juice out all over the salad. Add additional shallot oil / sherry vinegar to taste. Serve cold. 
