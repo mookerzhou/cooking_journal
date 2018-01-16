@@ -4,6 +4,10 @@ title: Red-Braised Pork
 category: meat
 ---
 
+For the longest time I had difficulty getting the caramel in this recipe down. Some bloggers / cookbooks suggest using rock sugar instead of cane sugar but I didn't think there should be such a difference. My mom uses brown sugar and doesn't bother to make a caramel at all. Buro finally nailed the caramel creation--adding the oil is critical for keeping the sugar from going straight from caramel to rock solid. 
+
+If you mess up making the caramel, just start over. You're at the beginning and sugar is cheaper than pork. 
+
 For each one-pound of meat, such as pork belly or hock:
 
 * Blanche pork into boiling water for a few minutes
