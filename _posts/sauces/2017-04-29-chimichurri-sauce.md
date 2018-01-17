@@ -9,7 +9,7 @@ This sauce really brings the Beef out of beef, particularly a skillet ribeye.
 Add to a mason jar, food processed until fine:
 
 - 2 cups packed fresh parsley, washed and dried
-- 1 head garlic, peeled
+- 4 cloves garlic, peeled
 - 2 tablespoons oregano leaves (if available)
 - 2 tbsp sherry vinegar, optionally steeped with chilis
 - 1 teaspoon Kosher salt
