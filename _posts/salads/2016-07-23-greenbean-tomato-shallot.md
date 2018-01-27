@@ -5,7 +5,7 @@ category: salads
 ---
 Adapted from [Smitten Kitchen](https://smittenkitchen.com/2008/05/green-bean-and-cherry-tomato-salad/) / Chez Panisse Vegetables
 
-When I lived in San Francisco the first time (2012-2013), I found a copy of Chez Panisse Vegetables and kept it as my toilet reading (TMI for a food blog?) for a solid few months. Facing a never ending CSA box of vegetables I had never ever cooked in my life, it was a godsend. Since, I've relapsed into more Chinese cooking at home, but I thank both Eatwell Farms (best CSA / community farm ever) and that book for coaching me through eating seasonally.
+When I lived in San Francisco the first time (2012-2013), I found a copy of Chez Panisse Vegetables and kept it as my toilet reading (TMI for a food blog?) for a solid few months. Facing a never ending CSA box of vegetables I had never ever cooked in my life, it was a godsend. Since, I've relapsed into more Chinese cooking at home, but I thank both [Eatwell Farms](http://www.eatwell.com/) (best CSA / community farm ever) and that book for coaching me through eating seasonally.
 
  I never made this salad then, though. I made this for the first time in NYC with Greenmarket (don't ask me why they call it that in NYC and not a farmer's market, I have no idea either) green beans and cherry tomatoes. 
 
