@@ -3,25 +3,9 @@ layout: default
 title: House Recipes
 ---
 
-### Cheeses
-
-{% include list.html category="cheeses" %}
-
-### Meat
-
-{% include list.html category="meat" %}
-
 ### Necessities
 
 {% include list.html category="necessities" %}
-
-### Pastry
-
-{% include list.html category="pastry" %}
-
-### Quickbread
-
-{% include list.html category="quickbread" %}
 
 ### Salads
 
@@ -31,12 +15,28 @@ title: House Recipes
 
 {% include list.html category="sauces" %}
 
+### Soups
+
+{% include list.html category="soups" %}
+
+### Pastry
+
+{% include list.html category="pastry" %}
+
+### Quickbread
+
+{% include list.html category="quickbread" %}
+
 ### Slow Bread
 
 {% include list.html category="slowbread" %}
 
-### Soups
+### Meat
 
-{% include list.html category="soups" %}
+{% include list.html category="meat" %}
+
+### Bookmarks
+
+{% include list.html category="cheeses" %}
 
 
