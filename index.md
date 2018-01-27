@@ -34,3 +34,9 @@ title: House Recipes
 ### Slow Bread
 
 {% include list.html category="slowbread" %}
+
+### Soups
+
+{% include list.html category="soups" %}
+
+
