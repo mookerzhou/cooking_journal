@@ -4,7 +4,7 @@ title: Veggie Quiche
 category: pastry
 ---
 
-Made a veggie quiche to setup Tom and Katherine over breakfast.
+Made a veggie quiche for breakfast with Tom and Katherine.
 
 Night before we cooked down the spring onion (from Eatwell) and the
 spinach and the kale. To cook down the spring onion, we chopped it
