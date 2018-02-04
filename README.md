@@ -5,3 +5,5 @@
 </p>
 
 A cooking journal. Lightweight. Portable. Semantically versioned.
+
+[RSS](http://feeds.feedburner.com/mookerjizhou-CookingJournal)
