@@ -35,8 +35,8 @@ title: House Recipes
 
 {% include list.html category="meat" %}
 
-### Bookmarks
+### Other: Bookmarked Favorites, etc.
 
-{% include list.html category="cheeses" %}
+{% include list.html category="bookmarks" %}
 
 

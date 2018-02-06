@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sheep Cheeses
-category: other
+category: bookmarks
 ---
 
 * Arpea de Brebis
