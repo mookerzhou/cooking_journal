@@ -35,8 +35,11 @@ title: House Recipes
 
 {% include list.html category="meat" %}
 
+### Desserts
+
+{% include list.html category="desserts" %}
+
 ### Other: Bookmarked Favorites, etc.
 
 {% include list.html category="bookmarks" %}
-
 
