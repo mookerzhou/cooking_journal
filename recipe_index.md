@@ -31,7 +31,7 @@ title: House Recipes
 
 {% include list.html category="slowbread" %}
 
-### Meat
+### Meat and Fish
 
 {% include list.html category="meat" %}
 
