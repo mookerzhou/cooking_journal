@@ -7,15 +7,15 @@ category: meat
 [Pla Rad Prik][pla_rad_prik] is a Thai dish: whole-fried, meaty white fish with
 chili sauce, usually a centerpiece entree. It's pretty common to find red
 snapper (delicious!) in Thai restaurants in the US; farmed or less over-fished
-alternatives like grouper, pompano, white perch, haddock, etc. probably work as
+alternatives like grouper, pompano, white perch, etc. probably work as
 well. Ideally, whatever fish is sized appropriately for your wok.
 
-- For the sauce, food process:
+- For the sauce, food process or mince:
   * 1/2 cup - garlic cloves
   * 1/2 cup - small, red Thai chilies (de-seeded)
 
   Also set aside:
-  * 1/2 cup - tamarind paste (prepared from pulp, if possible).
+  * 1/2 cup - tamarind paste ([prepared from a pulp block][tamarindo], if possible).
   * 1/4 cup - palm sugar
   * 2 tbsp - fish sauce
 
@@ -35,3 +35,4 @@ well. Ideally, whatever fish is sized appropriately for your wok.
   then turn off the heat; add the fried fish, bathe with sauce, and serve.
 
 [pla_rad_prik]: https://www.google.com/search?q=Pla+Rad+Prik&source=lnms&tbm=isch
+[tamarindo]: https://www.youtube.com/watch?v=tgf1CI0w4FA
