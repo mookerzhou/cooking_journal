@@ -2,6 +2,7 @@
 layout: post
 title: Fried Chicken
 category: meat
+tags: recipeish
 ---
 
 A fried chicken recipe.

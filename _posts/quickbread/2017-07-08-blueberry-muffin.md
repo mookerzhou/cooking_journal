@@ -2,6 +2,7 @@
 layout: post
 title: Blueberry Muffins
 category: quickbread
+tags: recipeish
 ---
 
 Based on Cooks Illustrated recipe.

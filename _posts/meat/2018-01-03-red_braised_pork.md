@@ -2,6 +2,7 @@
 layout: post
 title: Red-Braised Pork
 category: meat
+tags: recipeish
 ---
 
 For the longest time I had difficulty getting the caramel in this recipe down. Some bloggers / cookbooks suggest using rock sugar instead of cane sugar but I didn't think there should be such a difference. My mom uses brown sugar and doesn't bother to make a caramel at all. Buro finally nailed the caramel creation--adding the oil is critical for keeping the sugar from going straight from caramel to rock solid. 

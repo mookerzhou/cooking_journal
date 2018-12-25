@@ -2,6 +2,7 @@
 layout: post
 title: Cashew Cheese
 category: necessities
+tags: recipeish
 ---
 
 This is a recipe for a soft cashew cheese spread, in the style of what you may

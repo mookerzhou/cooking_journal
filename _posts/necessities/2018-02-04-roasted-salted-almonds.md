@@ -2,6 +2,7 @@
 layout: post
 title: Roasted, Salted Almonds
 category: necessities
+tags: recipeish
 ---
 
 For hikes and backpacking trips! It's based on this [recipe][recipe]. We

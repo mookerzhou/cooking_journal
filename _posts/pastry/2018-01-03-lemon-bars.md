@@ -2,6 +2,7 @@
 layout: post
 title: Lemon Bars
 category: pastry
+tags: recipeish
 ---
 
 Based on

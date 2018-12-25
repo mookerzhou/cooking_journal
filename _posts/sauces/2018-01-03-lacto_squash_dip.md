@@ -2,6 +2,7 @@
 layout: post
 title: Lacto-Fermented Butternut Squash Spread
 category: sauces
+tags: recipeish
 ---
 
 This attempts to reproduce a fermented squash spread I had at at

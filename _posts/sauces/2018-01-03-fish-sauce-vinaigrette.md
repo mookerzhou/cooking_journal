@@ -2,6 +2,7 @@
 layout: post
 title: Fish Sauce Vinaigrette
 category: sauces
+tags: recipeish
 ---
 
 From David Chang and Peter Meehan in the Momofuku Cookbook.

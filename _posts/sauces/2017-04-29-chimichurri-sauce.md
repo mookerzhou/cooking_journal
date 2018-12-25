@@ -2,6 +2,7 @@
 layout: post
 title: Chimichurri Sauce
 category: sauces
+tags: recipeish
 ---
 
 This sauce really brings the Beef out of beef, particularly a skillet ribeye.

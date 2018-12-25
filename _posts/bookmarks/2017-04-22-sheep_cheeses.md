@@ -2,6 +2,7 @@
 layout: post
 title: Sheep Cheeses
 category: bookmarks
+tags: recipeish
 ---
 
 * Arpea de Brebis
