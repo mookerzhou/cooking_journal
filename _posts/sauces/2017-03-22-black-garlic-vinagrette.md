@@ -2,6 +2,7 @@
 layout: post
 title: Black Garlic Vinaigrette
 category: sauces
+tags: recipeish
 ---
 
 * 1 clove black garlic

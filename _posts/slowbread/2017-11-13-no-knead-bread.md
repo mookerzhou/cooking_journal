@@ -2,6 +2,7 @@
 layout: post
 title: No-Knead Bread
 category: slowbread
+tags: recipeish
 ---
 
 See:

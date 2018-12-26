@@ -2,6 +2,7 @@
 layout: post
 title: Lemongrass Chile Sate Sauce
 category: sauces
+tags: recipeish
 ---
 
 This is a recipe for the lemongrass-chile sauce similar to what's available at

@@ -2,6 +2,7 @@
 layout: post
 title: Veggie Quiche
 category: pastry
+tags: recipeish
 ---
 
 Made a veggie quiche for breakfast with Tom and Katherine.

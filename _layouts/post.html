@@ -4,5 +4,8 @@ layout: default
 
 <article class='post'>
   <h2 class='post-title'>{{ page.title }}</h2>
+  {% if page.date %}
+  <p class="meta"><i>Post date</i>: {{ page.date | date_to_string }}</p>
+  {% endif %}
   {{ content }}
 </article>

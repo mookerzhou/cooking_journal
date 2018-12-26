@@ -2,6 +2,7 @@
 layout: post
 title: Coconut Mochi Cake
 category: quickbread
+tags: recipeish
 ---
 
 - Preheat oven to 350F, grease square baking pan.

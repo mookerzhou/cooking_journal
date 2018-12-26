@@ -2,6 +2,7 @@
 layout: post
 title: Shallot-y green bean and tomato salad
 category: salads
+tags: recipeish
 ---
 Adapted from [Smitten Kitchen](https://smittenkitchen.com/2008/05/green-bean-and-cherry-tomato-salad/) / Chez Panisse Vegetables
 

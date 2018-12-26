@@ -2,6 +2,7 @@
 layout: post
 title: Liquid Nitrogen Ice Cream
 category: desserts
+tags: recipeish
 ---
 
 This describes an ice cream base used at [tEp's](http://tep.mit.edu/) rush

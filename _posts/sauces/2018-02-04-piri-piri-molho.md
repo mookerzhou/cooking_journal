@@ -2,6 +2,7 @@
 layout: post
 title: Habanero Piri Piri
 category: sauces
+tags: recipeish
 ---
 
 We frequently refer to any olive oil-citrus-based chili sauce as 'Piri Piri',

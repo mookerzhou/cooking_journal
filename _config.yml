@@ -5,6 +5,18 @@ author:
   name:  '\0/ Buro and Maggie <3'
 timezone: UTC−07:00
 baseurl: /cooking_journal
+logo: /assets/images/favicon.png
 plugins:
-  - jekyll-feed
-  - jekyll-mentions
+- jekyll-feed
+- jekyll-mentions
+- jekyll-paginate-v2
+pagination:
+  enabled: true
+  per_page: 5
+  offset: 0
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: ''
