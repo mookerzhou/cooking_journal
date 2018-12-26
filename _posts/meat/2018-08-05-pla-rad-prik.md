@@ -2,6 +2,7 @@
 layout: post
 title: Pla Rad Prik
 category: meat
+tags: recipeish
 ---
 
 [Pla Rad Prik][pla_rad_prik] is a Thai dish: whole-fried, meaty white fish with
