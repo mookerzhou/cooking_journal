@@ -13,18 +13,18 @@ However, on night two, we made a fun and fantastic duck confit salad that travel
 
 *Make ahead*
 
-[Fish sauce vinagrette salad dressing](https://mookerzhou.github.io/cooking_journal/sauces/2018/01/03/fish-sauce-vinaigrette.html)
+[Fish sauce vinaigrette salad dressing](https://mookerzhou.github.io/cooking_journal/sauces/2018/01/03/fish-sauce-vinaigrette.html)
 
 *Bring backpacking*
 - Carrots (5-7)
 - Y-peeler 
 - one to two larger pieces duck confit 
 - (small) pan or pot that fits each piece of confit in it easily for searing
-- afformentioned made-ahead fish sauce vinagrette
+- aformentioned made-ahead fish sauce vinaigrette
 
 *Put together*
 - Y-peel carrots (This is fun!)
-- While one person is y-peeling carrots, or you can multi-task, shred each piece duck confit off the bone and place shredded pieces (with any fat that's fallen off during the day while you've been hiking) in the pan to fry up and warm up. Brown and warm.
+- While one person is y-peeling carrots, shred each piece duck confit off the bone and place shredded pieces (with any fat that's fallen off during the day while you've been hiking) in the pan to fry up and warm up. Brown and warm.
 - Place duck on top of y-peeled carrots and pour over vinagrette to taste. 
 
 <3 Maggie
