@@ -20,7 +20,7 @@ This recipe is sized for a potluck!
 The above is the majority of my pantry list for all my Chinese cooking. That's it! Once you have those ingredients, you can make lots of other tasty things. 
 
 *Recipe*
-- chop celery on the bias (diagonal), as shown [here](https://www.myfearlesskitchen.com/how-to-chop-celery/)
+- Chop celery on the bias (diagonal), as shown [here](https://www.myfearlesskitchen.com/how-to-chop-celery/)
 - Chop tofu gan vertically / horizontally so that it's around the same thickness as your celery.
 - Lightly salt celery with a tablespoon of kosher salt. Let rest. 
 - Stir fry celery to warm up with a few tablespoons neutral oil. You might have to go in batches. Remove from heat when it looks "soft". Celery can produce some water while heating it up, that's ok! You can leave the watery oily sauce that forms in the wok / pan for the tofu warming.
