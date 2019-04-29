@@ -23,6 +23,6 @@ The above is the majority of my pantry list for all my Chinese cooking. That's i
 - chop celery on the bias (diagonal), as shown [here](https://www.myfearlesskitchen.com/how-to-chop-celery/)
 - Chop tofu gan vertically / horizontally so that it's around the same thickness as your celery.
 - Lightly salt celery with a tablespoon of kosher salt. Let rest. 
-- Stir fry celery to warm up with a few tablespoons neutral oil (I use grapeseed / canola here). You might have to go in batches. Remove from heat when it looks "soft".
+- Stir fry celery to warm up with a few tablespoons neutral oil (I use grapeseed / canola here). You might have to go in batches. Remove from heat when it looks "soft". Celery can produce some water while heating it up, that's ok! You can leave the watery oily sauce that forms in the wok / pan for the tofu warming.
 - Stir fry tofu gan pieces, you might have to go in batches as well. After it's fully coated in oil and hot, add the soy sauce and vinegar. Keep stir frying until fully absorbed. Remove from heat. 
 - Combine celery and tofu gan, top with chili oil and szechuan peppercorn. Chill. Serve within a few days. Tastes better after chilling and marinating in the fridge over night. 
