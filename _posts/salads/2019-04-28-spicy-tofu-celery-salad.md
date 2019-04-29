@@ -25,4 +25,6 @@ The above is the majority of my pantry list for all my Chinese cooking. That's i
 - Lightly salt celery with a tablespoon of kosher salt. Let rest. 
 - Stir fry celery to warm up with a few tablespoons neutral oil. You might have to go in batches. Remove from heat when it looks "soft". Celery can produce some water while heating it up, that's ok! You can leave the watery oily sauce that forms in the wok / pan for the tofu warming.
 - Stir fry tofu gan pieces, you might have to go in batches as well. After it's fully coated in oil and hot, add the soy sauce and vinegar. Keep stir frying until fully absorbed. Remove from heat. 
-- Combine celery and tofu gan, top with chili oil and Szechuan peppercorn. Chill. Serve within a few days. Tastes better after chilling and marinating in the fridge over night. Shake before serving.
+- Combine celery and tofu gan, top with chili oil and Szechuan peppercorn, gently toss to combine. Add additional soy sauce and vinegar to taste (although err on the side of dressing more assertively--cold dampens flavors).
+
+Chill. Serve within a few days. Tastes better after chilling and marinating in the fridge over night. Shake before serving.
