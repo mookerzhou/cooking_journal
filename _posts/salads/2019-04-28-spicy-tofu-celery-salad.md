@@ -6,6 +6,8 @@ tags: recipeish, potluck
 ---
 This recipe is sized for a potluck!
 
+I call it a "salad", the Chinese name for it might be "liang ban tofu gan". Liang ban is a technique used to dress cold vegetables of all kinds. 
+
 *Ingredients & Sourcing*
 - 4 blocks Tofu Gan -- This is the center piece of the dish. You can find it labeled as "Braised Tofu" or "Tofu Gan" or "Pressed Tofu Blocks" in the store. They're very firm, they're brown on the outside, and do not come in water (they come in plastic though). Hodo Soy calls theirs "Braised tofu", and that's widely available where I live. 
 - 1 bunch celery -- Just normal standard celery here, Chinese celery would be an OK substitute, please don't use only the hearts.
@@ -23,7 +25,7 @@ The above is the majority of my pantry list for all my Chinese cooking. That's i
 - Chop celery on the bias (diagonal), as shown [here](https://www.myfearlesskitchen.com/how-to-chop-celery/)
 - Lightly salt celery with a tablespoon of kosher salt. Let rest. 
 - Chop tofu gan vertically / horizontally so that it's around the same thickness as your celery.
-- Stir fry celery to warm up with a few tablespoons neutral oil. You might have to go in batches. Remove from heat when it looks "soft". Celery can produce some water while heating it up, that's ok! You can leave the watery oily sauce that forms in the wok / pan for the tofu warming.
+- Poach celery pieces for 1-2 minutes until they change color.
 - Stir fry tofu gan pieces, you might have to go in batches as well. After it's fully coated in oil and hot, add the soy sauce and vinegar. Keep stir frying until fully absorbed. Remove from heat. 
 - Combine celery and tofu gan, top with chili oil and Szechuan peppercorn, gently toss to combine. Add additional soy sauce and vinegar to taste (although err on the side of dressing more assertively--cold dampens flavors).
 
