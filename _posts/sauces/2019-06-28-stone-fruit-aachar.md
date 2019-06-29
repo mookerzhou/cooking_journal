@@ -18,14 +18,14 @@ from an aunt, whose aachar is quite popular within my extended family.
   - 1 tbsp, pomegranate molasses
   - **OR** [Nolen gur][gur]
 * Simmer fruit and sugar and let reduce. Cool some on the back of a spoon to
-  test final consistency. Aim for something jam-like.
+  test final consistency and aim for something jam-like.
 * Fold in spices:
   - 1 tbsp [Panch phoron][panch], ground and fried in mustard oil (~ 2 tsp)
   - Pinch of [Hing][hing] (resin, not the powder)
   - [Black salt][salt], as needed
 
-I eyeballed this the first time I made it, and the volume measurements are for
-about 400g of fruit (with cores removed).
+I eyeballed this the first time I made it, and the volume measurements are
+calibrated for about 400g of fruit (with cores removed).
 
 [panch]: https://en.wikipedia.org/wiki/Panch_phoron
 [aachar]: https://en.wikipedia.org/wiki/South_Asian_pickles
