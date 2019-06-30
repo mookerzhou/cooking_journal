@@ -17,6 +17,7 @@ from an aunt, whose aachar is quite popular within my extended family.
   - 3-4 tbsp, honey
   - 1 tbsp, pomegranate molasses
   - **OR** [Nolen gur][gur]
+  - For sourness: tamarind paste (whole)
 * Simmer fruit and sugar and let reduce. Cool some on the back of a spoon to
   test final consistency and aim for something jam-like.
 * Fold in spices:
