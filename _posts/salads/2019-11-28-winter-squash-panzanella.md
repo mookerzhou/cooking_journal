@@ -16,7 +16,7 @@ friends at the [Garden for the Environment][gfe] at an event the night before
 the potluck.
 
 The salad components can be prepped the day before, *except* for the vegetable
-toppings (radishes, etc.). Those should be prepped at the time of serving.
+toppings (radishes, etc.). Prep those at the time of serving.
 
 Salad dressing
 - 1 cup olive oil
@@ -43,7 +43,8 @@ Toppings
 - arugula, washed
 - roasted Whole Hazelnuts, chopped
 
-Assemble the salad 30-minutes prior to serving:
+After making the dressing, squash, bread, and toppings, assemble the salad
+30-minutes prior to serving:
 1. In a large mixing bowl, toss and roughly combine the bread and the
    squash. Add salad dressing and let sit for 10-15 minutes.
 2. Add arugula and mix, followed by shallots, chives, and half of the hazelnuts.
