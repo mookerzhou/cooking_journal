@@ -22,8 +22,8 @@ Steps:
 
 Salad is super savory and stores well and tastes even better the next day and the next.
 
-- Maggie
+-Maggie
 
 P.S. and I know it's not the usual in these blog posts, but here's an image of our scarlet runner bean plant from last summer:
 
-![scarlet-runner-bean-plant](/assets/images/IMG_4930.jpg)
+![scarlet-runner-bean-plant](assets/images/IMG_4930.jpg)
