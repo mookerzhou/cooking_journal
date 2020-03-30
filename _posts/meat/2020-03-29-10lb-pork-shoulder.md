@@ -13,10 +13,14 @@ Day of cooking, remove all liquids and pat the roast dry. Place on a wire rack o
 
 OK, now what do you do with it? 
 
-* You can serve the roast, as is, bo ssam style. Read more here: https://www.epicurious.com/recipes/food/views/bo-ssam-51208610
-* If you're cooking during quarantine, you might think, what can I do with a 10 pound roast? Here are some things I like to do:
+You can serve the roast, as is, bo ssam style. Great for a dinner party. Read more here: https://www.epicurious.com/recipes/food/views/bo-ssam-51208610
+
+If you're cooking during quarantine, you might think, what can I do with a 10 pound roast and no friends? Here are some things I like to do:
+
 * Take out a portion, chop it up into smaller pieces, fat and solid meat, and fry (no need to add more fat) in a pan. After it's crispy, add some apple cider vinegar and some hot sauce and maybe some water. Let the liquids boil off, stirring the meat. Taste and add more salt, etc. Eat by itself, or on top of lettuce leaves or in tortillas. 
 * Take out a portion, like above. Chop up and let it fry and warm up in its own fat. Place at the bottom of a very large bowl. Chop up some lettuce/kale/chard/any form of greens. Boil some chinese noodles / ramen packet. Place noodles and hot water in bowl. Season with soy sauce, chili oil, chili crisp, etc. to taste. Soup noodles, yum.
 * Use as the base for making congee. 
 * Chop up and stir into stir fried vegetables.
-* You get the picture, etc. It's endlessly versatile. 
+* You get the picture. It's endlessly versatile. 
+
+- Maggie
