@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shallot-y green bean and tomato salad
+title: Shallot-y Green Bean and Tomato Salad
 category: salads
 tags: recipeish
 ---
