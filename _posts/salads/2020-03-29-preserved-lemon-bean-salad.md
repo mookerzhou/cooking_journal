@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preserved lemon bean salad
+title: Preserved Lemon Scarlet Runner Bean Salad
 category: salads
 tags: recipeish
 ---
