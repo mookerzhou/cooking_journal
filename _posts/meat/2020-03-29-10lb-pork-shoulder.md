@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Cook a 10 lb pork shoulder
+title: Cook a 10 lb Pork Shoulder
 category: meat
 tags: recipeish
 ---
 
+Ingredients:
+* one 10 pound pork shoulder, or other pork roast cut
+* 1.5 cups of Diamond Crystal kosher salt
+* 0.5 cup granulated sugar
+
+Recipe:
 At large American grocery stores you can usually find a 10 pound pork shoulder in plastic packaging. Sometimes it's labeled "pork butt", "picnic", "shoulder", "blade roast". These are all subtly different parts of the pig, and cut differently, but rather than get into American animal husbandry practices, let's continue with the cooking, yah? 
 
 The day you bring the pork home, and at least 12 hours before cooking, salt the roast aggressively with ~1-1.15 cups of salt. Depending on how I'm feeling, I might also use half a cup of sugar. Let hang out in the fridge. You can either cover it in plastic wrap or just leave it open in a bowl. If you choose to wrap it,make sure to put it in a bowl as well, as it *will* leak liquids.
@@ -23,4 +29,4 @@ If you're cooking during quarantine, you might think, what can I do with a 10 po
 * Chop up and stir into stir fried vegetables.
 * You get the picture. It's endlessly versatile. 
 
-- Maggie
+-Maggie
