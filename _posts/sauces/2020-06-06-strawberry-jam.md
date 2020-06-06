@@ -26,6 +26,7 @@ pectin][pectin].
   much when cooled.
 
 Notes:
+
 - You can vary the amount and type of sugar, salt, and acid to your own
   preference.
 - If canning, this amount fills about up about 4-5 pint Ball jars.
