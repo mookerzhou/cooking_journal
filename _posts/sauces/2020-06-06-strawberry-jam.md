@@ -15,8 +15,8 @@ pectin][pectin].
 * Add strawberries to a *non-reactive* pot, heat gently and then mash.
 * Add to pot and stir until incorporated:
   - 2 cups sugar
-  - 2 1/2 Pomona's pectin
-  - Calcium water (prepped from Pomona's pectin instructions)
+  - 4 tsp Pomona's pectin
+  - 4 tsp Calcium water (prepped from Pomona's pectin instructions)
 * Bring to a full rolling boil and then add:
   - vinegar (we used about 1/3 cup of sherry vinegar)
   - salt (to taste, 1 teaspoon)
