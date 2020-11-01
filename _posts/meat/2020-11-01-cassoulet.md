@@ -22,7 +22,7 @@ Ingredients:
 Recipe:
 * One or two days prior to cooking (lol), soak the beans. Room temperature is fine if your house is <75 degrees, if over, place them in the fridge to soak. If you accidentally end up soaking them too soon, you can always keep them in the soaking water in the fridge for up to 3-4 days. 
 * Parcook the beans. Add beans to cold water with the aromatics and a few tablespoons of olive oil / duck fat. Bring water to a boil and then lower to the lowest setting possible. Cook for 3-4 hours. Yes. 3-4 hours. Add salt at the end of cooking, turn off the heat. Store in the fridge if you're not continuing to make cassoulet that day. They can store in their bean broth in the fridge for another 5 days.
-* If using duck fat jelly, add it to the bean broth on the day you're cooking the cassoulet. Taste the resulting 'stock' of bean broth and duck fat and duck jelly. If needed for more body, add additional Knox gelatin packets to the warmed up broth.
+* If using duck fat jelly, add it to the bean broth on the day you're cooking the cassoulet. Taste the resulting 'stock' of bean broth and duck fat and duck jelly. If needed for more body, add additional Knox gelatin packets to the warmed up broth. Resulting 'stock' should taste slightly less salty than you'd like in a soup.
 * In the dutch oven you plan to cook the cassoulet in, ad guanciale / pancetta pieces (diced very small) to pan with two tablespoons of duck fat. Let the fat render until the pieces get crispy. Remove the pork.
 * Brown the chicken thighs / duck confit on both sides--add them dry to the pan with some black pepper. It'll take 5 minutes on both sides to brown. Remove chicken.
 * Brown sausages. Remove sausages. 
