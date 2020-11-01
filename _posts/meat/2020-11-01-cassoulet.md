@@ -7,16 +7,16 @@ tags: recipeish
 
 We've been on a cassoulet kick this summer in the foggy Inner Richmond. The first few times we made it with duck confit pieces. This last time, we had run out of duck confit on hand, but still had some of the [jelly that sinks at the bottom of duck fat)](https://www.reddit.com/r/AskCulinary/comments/6g2klj/the_gelatin_of_duck_fat/) when you render it yourself, so we used that instead. 
 
-This recipe is riffing off of a few sources, and I don't really consider it something that I'd tell other people to do (you'll see why in a moment). [Kenji's cassoulet recipe](https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html)](https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html) is faster end to end, and Elizabeth David's cassoulet recipes in _French Provincial Cooking_ all call for mutton shoulder (!!?!?) which honestly I'm not even sure you can easily buy mutton (older lamb) in the U.S. these days. I also watched the [video](https://www.ranchogordo.com/products/cassoulet-tarbais-bean) on Rancho Gordo's cassoulet bean page. I've wanted to make cassoulet since I first read about it, it's always felt really romantic to me. Now that we've made it a few times, I think it's more delicious than I thought, but less romantic, it's basically just sausage and beans.
+This recipe is riffing off of a few sources, and I don't really consider it something that I'd tell other people to do (you'll see why in a moment). [Kenji's cassoulet recipe](https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html)](https://www.seriouseats.com/recipes/2014/10/traditional-french-cassoulet-recipe.html) is faster end to end, and Elizabeth David's cassoulet recipes in _French Provincial Cooking_ all call for mutton shoulder (!!?!?) which honestly I'm not even sure you can easily buy mutton (older lamb) in the U.S. these days. I also watched the [video](https://www.ranchogordo.com/products/cassoulet-tarbais-bean) on Rancho Gordo's cassoulet bean page. I've wanted to make cassoulet since I first read about it, it's always felt really romantic to me. Now that we've made it a few times, I think it's more delicious than I originally thought, but less romantic, it's basically just sausage and beans.
 
 Ingredients:
 * Cassoulet beans (1/2 lb or 1 lb dry) from (Rancho Gordo)[https://www.ranchogordo.com/products/cassoulet-tarbais-bean]
 * Aromatics: 1 celery rib, 1 carrot, 6 bay leaves, black peppercorn
 * 4 ounces guanciale / pancetta 
 * 3-6 pork sausages
+* 1 white onion, diced
 * 2-3 pieces duck confit with a few tablespoons duck fat OR
 * 3 chicken thighs and some duck confit jelly / duck fat jelly / duck fat
-* 1 white onion, diced
 * (optional) Knox gelatin
 
 Recipe:
@@ -28,4 +28,4 @@ Recipe:
 * Brown sausages. Remove sausages. 
 * Add diced onion. If there's not enough fat at this point in the pan, add more. Salt onion just a little. Cook until onion is translucent.
 * Add in beans and all the meat and cover it with the bean broth / duck fat jelly combo. Liquid should just barely cover the beans and the meat. If not enough liquid, add more water.
-* Bring to a boil, then move to the oven at 300 degrees fahrenehit. Let cook for 3-6 hours, occasionally braking the crust to encourage crust formation.
+* Bring to a boil, then move to the oven at 300 degrees fahrenehit. Let cook for 3-6 hours, occasionally breaking the crust to encourage crust formation.
