@@ -29,5 +29,5 @@ Recipe:
 * Brown the chicken thighs / duck confit on both sides--add them dry to the pan with some black pepper. It'll take 5 minutes on both sides to brown. Remove chicken.
 * Brown sausages. Remove sausages. 
 * Add diced onion. If there's not enough fat at this point in the pan, add more. Salt onion just a little. Cook until onion is translucent.
-* Add in beans and all the meat and cover it with the bean broth / duck fat jelly combo. Liquid should just barely cover the beans and the meat. If not enough liquid, add more water.
-* Bring to a boil, then move to the oven at 300 degrees fahrenehit. Let cook for 3-6 hours, occasionally breaking the crust to encourage crust formation.
+* Add in beans and all the meat and cover it with the bean broth / duck fat jelly combo. Liquid should just barely cover the beans and the meat. Thighs should submerge the sausages and beans. If not enough liquid, add more water.
+* Bring to a boil, then move to the oven at 300 degrees fahrenehit. Let cook for 2-3 hours, occasionally breaking the crust to encourage crust formation.
