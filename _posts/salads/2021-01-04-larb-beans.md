@@ -5,7 +5,7 @@ category: salad?
 tags: recipeish
 ---
 
-Inspired by Kin Khao's Nam Tok beans. Never got the texture/seasoning to taste quite as crispy, so let's just call these larb beans shall we?
+Inspired by Kin Khao's Nam Tok beans. Never got the texture/seasoning to taste quite as crispy, so let's just call these larb beans shall we? Very tasty, very savory, we've been making them regularly and they never last long.
 
 Ingredients:
 * Cooked beans, a few cups cooked. Hearty beans with a thicker skin work best. Scarlet runner beans are great. Cranberry beans might work but are a little soft. 
