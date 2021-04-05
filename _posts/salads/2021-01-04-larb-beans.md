@@ -15,8 +15,10 @@ Ingredients:
 * Rice, 1-2 cups
 * Oil
 * Dried pepper flakes (ancho/ghost/whatever)
-* 2-4 limes/lemons (limes preferrable)
-* Optional: fresh mint, cilantro, chives, green onions, chopped hot peppers, chopped pickled carrots/onions
+* 2-4 limes
+* 1/2 cup chopped mint
+* 1/2 cup chopped cilantro
+* Optional: chopped chives, green onions, chopped hot peppers, chopped pickled carrots/onions
 
 Technique:
 * Toast rice in a wok/cast iron pan by placing rice in the hot pan, dry, with no oil and stirring constantly over medium-high heat until evenly golden brown. This step can take 15-20 minutes, beware.
