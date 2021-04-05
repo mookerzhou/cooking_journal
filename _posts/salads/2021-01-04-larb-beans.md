@@ -12,7 +12,7 @@ Ingredients:
 * 1-2 shallots, thinly sliced
 * 1-2 cloves of garlic, minced
 * Fish sauce
-* Rice, 1-2 cups
+* Jasmine Rice, 1-2 cups
 * Oil
 * Dried pepper flakes (ancho/ghost/whatever)
 * 2-4 limes
