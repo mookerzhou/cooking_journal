@@ -28,6 +28,6 @@ End result should look something like:
 * Gently open the lemon and squish it down into your mason jar cut side down. Sprinkle some additional kosher salt on top.
 * Repeat cutting and salting and squishing steps with all remaining lemons. As you go, you can tamp the lemons in with the bottom of a spatula. The goal is to encourage the lemons to produce juice.
 * When done with lemons, place the pickling weight on top and squish some more. Wait an hour or so for more lemon juice to develop from salting.
-* IMPORTANT: After waiting an hour, if the lemon juice does not fully cover the lemons and the weight, take the lemons you set aside at the beginning and juice them. If you run out of lemon juice to cover the lemons, you can use a 5% salt brine.
+* IMPORTANT: After waiting an hour, if the lemon juice does not fully cover the lemons and the weight, take the lemons you set aside at the beginning and juice them. If you run out of lemon juice to cover the lemons, you can use a 5% salt brine. It is *very* important that the juice/brine covers the lemons and weight entirely! Everything else is flexible!
 * Loosely cover with a cheese cloth and check every day or so to make sure the juice still covers the lemons.
-* Preserved lemons are ready in 2-6 weeks, depending on the ambient temperature. You know they're ready if the color has deepened and the liquid has become slightly viscous to the touch (similar to sugar syrup in texture). 
+* Preserved lemons are ready in 2-6 weeks, depending on the ambient temperature. You know they're ready if the color has deepened and the liquid has become slightly viscous to the touch (similar to sugar syrup in texture). When they're ready, you can remove the pickling weight and store for 2+ years in the fridge.
