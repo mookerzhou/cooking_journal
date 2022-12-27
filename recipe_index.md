@@ -7,17 +7,25 @@ title: House Recipes
 
 {% include list.html category="necessities" %}
 
-### Salads
-
-{% include list.html category="salads" %}
-
 ### Sauces and Spreads
 
 {% include list.html category="sauces" %}
 
+### Salads
+
+{% include list.html category="salads" %}
+
 ### Soups
 
 {% include list.html category="soups" %}
+
+### Meat and Fish
+
+{% include list.html category="meat" %}
+
+### Vegetable Mains
+
+{% include list.html category="veg-main" %}
 
 ### Pastry
 
@@ -30,10 +38,6 @@ title: House Recipes
 ### Slow Bread
 
 {% include list.html category="slowbread" %}
-
-### Meat and Fish
-
-{% include list.html category="meat" %}
 
 ### Desserts
 
