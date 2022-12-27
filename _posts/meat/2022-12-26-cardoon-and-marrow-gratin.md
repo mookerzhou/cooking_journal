@@ -5,6 +5,10 @@ category: meat
 tags: recipeish
 ---
 
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/353255/209724170-fba1a1d2-2f09-4de5-a5ae-a42ac62ac950.png" style="max-width: 75%; height: auto;">
+</div><br>
+
 Cardoons are gorgeous perennials that grow really well in the Bay Area and are
 delicious when prepared correctly. They taste _a lot_ like artichoke hearts but
 have a lot more edible product per plant and just way less fussy to eat. The
@@ -39,8 +43,8 @@ casserole dish.
   following with sauce. Cover top layer with grated hard cheese.
 * Bake at 350F until top layer is browned and bubbly.
 
-Supposedly we sauteed mushrooms in white wine and butter and added them,
-possibly as a final layer before the cheese.
+Other variants: 
+- We also sauteed mushrooms in butter and added them as a final layer before the cheese.
 
 [cardoons]: https://en.wikipedia.org/wiki/Cardoon
 [blanch1]: https://www.hobbyfarms.com/growing-cardoons/#:~:text=Cardoon%20blanching%20takes%20three%20to,to%20avoid%20the%20thorny%20leaves.
