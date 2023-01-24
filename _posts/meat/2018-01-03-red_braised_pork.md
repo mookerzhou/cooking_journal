@@ -23,7 +23,7 @@ For each one-pound of meat, such as pork belly, hock, or ribs:
   - 2 tbsp dark soy sauce
   - 1 star anise, 2 dried red chilis, 3/4-inch ginger, small piece cassia bark
 
-* Add meat and adjust water levels as necessary
+* Add meat and add water/stock to almost cover every piece of meat.
 * Bring to a boil and then lower heat and simmer until meat is cooked tender
 * Reduce the sauce (remove meat and then reduce the sauce, and then put the meat back)
 
