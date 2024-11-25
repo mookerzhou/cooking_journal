@@ -22,12 +22,15 @@ I've been making this roast duck for some years, riffing off of [Julia's Album](
 * 2 tablespoons soy sauce
 * 1/4 cup sherry vinegar
 * 1/4 cup water
+* few tablespoons to 1/4 cup of honey
 
   OR
 * 1/4 cup fruit jam
 * 1 lemon
 * 1/4 cup vinegar of your choice (rice wine vinegar is good too!)
 * 1/4 cup water
+
+optional: add some spices to your glaze ingredients to zhzuzz it up. cinnamon could be good if you go the plum route!
 
 ### Making the Duck
 * These instructions get the duck to 165 (well-done). Adjust accordingly down in times if you want to cook a duck to 140 or 150.
@@ -42,7 +45,7 @@ I've been making this roast duck for some years, riffing off of [Julia's Album](
 * Set duck on half sheet with wire rack set inside. You don't need a roasting rack (who owns one of those anymore) but it's important to elevate the duck from the bottom of the sheet pan.
 * Roast duck breast side up for 40 minutes.
 
-* While the duck is roasting breast side up prepare the glaze. Heat all ingredients together in a small sauce pan. Taste as you go! Add water if necessary to thin out.
+* While the duck is roasting breast side up prepare the glaze. Heat all ingredients together in a small sauce pan until things look glossy and glaze-y. Taste as you go! Add water if necessary to thin out. If you're working with jam/fruit, make sure to mash up the chunky bits. 
 
 * Flip duck and roast duck for another 15 minutes back side up.
 
@@ -53,3 +56,7 @@ I've been making this roast duck for some years, riffing off of [Julia's Album](
 * Brush the back of the duck with the glaze and return to the oven and roast for another 5-10 minutes.
 
 * Flip duck back over to breast side up. Brush the duck all over with the glaze. Continue to cook another 20 minutes, or until the duck internal temperature reaches 155F, it will go up to 165 as it rests!. Brush with the glaze every 10 minutes.
+
+* Rest the duck at least 10 min before carving. 
+
+* If you have glaze leftover, you can either set it out to eat w the duck directly, or make a pan sauce with some duck fat / butter and adding some extra acid to it. 
