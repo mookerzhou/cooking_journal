@@ -5,7 +5,7 @@ category: veg-main
 tags: recipeish
 ---
 
-Adapted from "Salad Samurai"'s That 70s Tofu recipe. Tastes like you got it at a hot bar at a hippie food co-op. I brought this to a potluck and it was surprisingly a hit with the 1 year old. We've been making it a lot this year since it's a low effort dish that is easy to make if you're home all the time with a new born, say. 
+Adapted from "Salad Samurai"'s That 70s Tofu recipe. Tastes like you got it at a hot bar at a hippie food co-op. I brought this to a potluck and it was surprisingly a hit with the 1 year old. We've been making it a lot this year since it's a low effort dish that is easy to make if you're home all the time with a new born, say. I can't believe my first tofu recipe on this blog is a white people tofu recipe! I will have to write up some Chinese tofu recipes in penance....
 
 Ingredients
 * 1 pack firm tofu
