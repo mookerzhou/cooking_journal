@@ -14,9 +14,10 @@ For the crust:
   * 2 1/2 cups all-purpose flour
   * 3/4 cup powdered sugar, plus more for garnish
   * 1/2 teaspoon salt
-  * 1 cup (2 sticks) butter
+  * 2 1/2 sticks butter
 - Press into a 9-inch greased pan.
 - Bake at 350F until edges are brown (~20 minutes)
+- Chill the pans after you push the dough in.
 
 For the filling:
 - Whisk until smooth
@@ -28,7 +29,6 @@ For the filling:
 - Fold in
   * 1/2 cup all-purpose flour
 
-Pour filing into baked crust and bake until firm at 315F (~45
-minutes).
+Pour filing into baked crust and bake until firm at 315F (~45 minutes).
 
 -Buro
